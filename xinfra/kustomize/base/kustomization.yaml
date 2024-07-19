@@ -1,9 +1,0 @@
-commonLabels:
-  app: tstory
-
-namePrefix: base-
-
-resources:
-  - configmap.yaml
-  - deployment.yaml
-  - service.yaml
